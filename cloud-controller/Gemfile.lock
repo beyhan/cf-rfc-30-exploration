@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    oj (3.14.2)
+
+PLATFORMS
+  x86_64-darwin-19
+  x86_64-darwin-23
+
+DEPENDENCIES
+  oj
+
+BUNDLED WITH
+   2.3.9

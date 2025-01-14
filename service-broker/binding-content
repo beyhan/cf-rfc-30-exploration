@@ -1,0 +1,15 @@
+{
+    "name": "foo",
+    "type": "db",
+    "credentials": {
+        "string_property": "[\"a\", \"a\"]",
+        "array": ["a", "a"],
+        "certificate": "-----BEGIN CERTIFICATE-----\nblaaaa\n-----END CERTIFICATE-----",
+        "hash": {
+            "a": "a"
+        },
+        "number": 1,
+        "boolean": true,
+        "password": "[\"dbsecret\"]"
+    }
+}
